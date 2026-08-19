@@ -27,3 +27,17 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+# Laravel Boost generated (recreate with `php artisan boost:install` / `boost:update`)
+/boost.json
+/AGENTS.md
+/CLAUDE.md
+/.mcp.json
+/.ai/mcp
+/.agents/skills
+/.claude/skills
+/.claude/settings.local.json
+/.cursor/mcp.json
+/.cursor/skills
+/.junie/mcp
+/.junie/skills
